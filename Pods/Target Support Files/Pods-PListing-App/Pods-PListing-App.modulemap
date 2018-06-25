@@ -1,0 +1,6 @@
+framework module Pods_PListing_App {
+  umbrella header "Pods-PListing-App-umbrella.h"
+
+  export *
+  module * { export * }
+}
